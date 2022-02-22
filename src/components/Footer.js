@@ -34,7 +34,7 @@ const Footer = () => {
     return (
         <Container>
             <Center>
-                <Logo>React-Bootstrap</Logo>
+                <Logo>Zuitt Bootcamp</Logo>
 
                 <SocialMediaContainer>
                     <SocIcon>
